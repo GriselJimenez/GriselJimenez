@@ -6,7 +6,7 @@ Beside my current research, I enjoy traveling mountains around Asia 🗻 paintin
 
 Languages and Tools: Currently learning Python (OpenCv), QGis and R.
 
-My current research is about:
+My current tasks are about:
 
 Optimal Integrated Geological modeling for development planning and well and reservoir management         
 is vital to reservoir simulation and economic decisions. A good workflow should be scaled and iterative
