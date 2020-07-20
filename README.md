@@ -1,4 +1,4 @@
-Hi, 👋,I'm [Grisel Jimenez Soto](https://griseljimenezsoto.wordpress.com/) an Earth Scientist and Technology Enthusiastic  ⛰ from La Paz, Bolivia. Currently working as a Research Scientist at [South East Asia Carbonate Laboratory ](https://seacarledu.wordpress.com/) at Universiti Teknologi Petronas in Perak, Malaysia. 
+Hi, 👋,I'm [Grisel Jimenez Soto](https://medium.com/@jimenezsotogrisel) an Earth Scientist and Technology Enthusiastic  ⛰ from La Paz, Bolivia. Currently working as a Research Scientist at [South East Asia Carbonate Laboratory ](https://seacarledu.wordpress.com/) at Universiti Teknologi Petronas in Perak, Malaysia. 
 
 [My current Research Publications](https://www.researchgate.net/profile/Grisel_Jimenez_Soto)
 
