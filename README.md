@@ -2,7 +2,7 @@ Hi, 👋,I'm [Grisel Jimenez Soto](https://medium.com/@jimenezsotogrisel) an Ear
 
 [My current Research Publications](https://www.researchgate.net/profile/Grisel_Jimenez_Soto)
 
-Beside my current research, I enjoy traveling mountains around Asia 🗻 and The Andes painting and collecting when possible rocks and fossils. 
+Beside my current research, I enjoy traveling mountains around Asia 🗻 and The Andes, painting and collecting when possible rocks and fossils. 
 
 Languages and Tools: Currently learning Python (OpenCv), QGis and R.
 
