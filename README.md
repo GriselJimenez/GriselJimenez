@@ -6,7 +6,7 @@ Hi, 👋,I'm [Grisel Jimenez Soto](https://www.linkedin.com/in/jimenezgrisel/) a
 
 Beside my current research, I enjoy traveling mountains around Asia 🗻 and The Andes, painting and collecting when possible rocks and fossils. 
 
-Languages and Tools: Currently learning Python (OpenCv), QGis and R.
+Languages and Tools: Currently learning Python (OpenCv), QGis, R, VTK, and GEMPY.
 
 My current research is about: Identify and analyze the best and most suitable modelling workflows to reproduce geological “shapes” 
 of object-based techniques from pore types in 3 datasets of carbonate build-ups in South East Asia.
