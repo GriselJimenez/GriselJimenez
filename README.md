@@ -8,12 +8,4 @@ Beside my current research, I enjoy traveling mountains around Asia 🗻 and The
 
 Languages and Tools: Currently learning Python (OpenCv), QGis, R, VTK, GEMPY, Blender and Google Poly. 
 
-My current research is about: Identify and analyze the best and most suitable modelling workflows to reproduce geological “shapes” 
-of object-based techniques from pore types in 3 datasets of carbonate build-ups in South East Asia.
-
-![AZml]
-
-
-
-
-
+My current research is about: Identify and analyze the best and most suitable modelling workflows for carbonate build-ups in South East Asia.
