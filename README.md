@@ -2,7 +2,7 @@
 
 Hi, 👋,I'm [Grisel Jimenez Soto](https://www.linkedin.com/in/jimenezgrisel/) an Earth Scientist and Technology Enthusiastic  ⛰ from La Paz, Bolivia. Currently working as a Research Scientist at [Centre for Subsurface Imaging](https://www.utp.edu.my/Pages/Research/Research%20Institutes/IHR/IHR%20Research%20Centre%20and%20Group/Centre-of-Subsurface-Imaging-(CSI).aspx) at Universiti Teknologi Petronas in Perak, Malaysia. 
 
-[My current Research Publications](https://www.researchgate.net/profile/Grisel_Jimenez_Soto) (https://scholar.google.com/citations?user=JGnHbUEAAAAJ&hl=en)
+[My current Research Publications](https://www.researchgate.net/profile/Grisel_Jimenez_Soto) and [Google Scholar](https://scholar.google.com/citations?user=JGnHbUEAAAAJ&hl=en)
 
 Beside my current research, I enjoy traveling mountains around Asia 🗻 and The Andes, aereal photography/drones, running, and collecting when possible rocks and fossils. 
 
