@@ -1,6 +1,6 @@
 ![20180328_belize_preview](https://user-images.githubusercontent.com/46911040/87944817-77331200-cad2-11ea-83ff-12dd99d09d45.jpg)
 
-Hi, 👋,I'm [Grisel Jimenez Soto](https://www.linkedin.com/in/jimenezgrisel/) an Earth Scientist and Technology Enthusiastic  ⛰ from La Paz, Bolivia. Currently working as a Research Scientist at [South East Asia Carbonate Laboratory ](https://seacarledu.wordpress.com/) at Universiti Teknologi Petronas in Perak, Malaysia. 
+Hi, 👋,I'm [Grisel Jimenez Soto](https://www.linkedin.com/in/jimenezgrisel/) an Earth Scientist and Technology Enthusiastic  ⛰ from La Paz, Bolivia. Currently working as a Research Scientist at [Centre for Subsurface Imaging](https://www.utp.edu.my/Pages/Research/Research%20Institutes/IHR/IHR%20Research%20Centre%20and%20Group/Centre-of-Subsurface-Imaging-(CSI).aspx) at Universiti Teknologi Petronas in Perak, Malaysia. 
 
 [My current Research Publications](https://www.researchgate.net/profile/Grisel_Jimenez_Soto)
 
