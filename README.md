@@ -14,7 +14,7 @@ Grisel Jimenez
 #### Hi, 👋,I'm [Grisel Jimenez Soto](https://www.linkedin.com/in/jimenezgrisel/) an Earth Scientist and Technology Enthusiastic  ⛰ from La Paz, Bolivia.
 
 #### I am a Research Scientist at the Center of Seismic Imaging [Univerti Teknologi Petronas](https://www.utp.edu.my/Pages/Research/Research%20Institutes/IHR/IHR%20Research%20Centre%20and%20Group/Centre-of-Subsurface-Imaging-(CSI).aspx)
-#### My research interest includes: 3D/4D Reservoir modelling (GIS, carbonate/clastic reservoir, sedimentology and VR/AR application for Geosciences.  More specifically, I am interested in transforming creative scientific ideas into user-friendly applications to help in problem-solving.
+#### My research interest includes: 3D/4D Reservoir modelling (GIS, carbonate/clastic reservoir, sedimentology and VR/AR application for Geosciences. I am interested in transforming creative scientific ideas into user-friendly applications to help in problem-solving.
 
 #### I have ~14 years of work experience in different countries like Bolivia, Brazil, Canada, France, and Malaysia, both in Exploration and Development including several domains from Fieldwork Geology, Sedimentology, and 3D Reservoir Modeling. Grisel has extensive Outcrop and Sedimentology experience in Western Cordillera, North and South Subdandean of Bolivia and northern Argentina, Deepwater Angola, Offshore Japan, Santos Basin, Brazil. Grisel is proficient in several languages including Spanish, English, French, Italian, and Portuguese. I am also working as well as open to any collaboration opportunity. 
 #### Beside my current research, I enjoy traveling mountains around Asia 🗻 and The Andes, aereal photography/drones, running, and collecting when possible rocks and fossils.
