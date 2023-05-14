@@ -1,4 +1,4 @@
-![20180328_belize_preview](https://user-images.githubusercontent.com/46911040/87944817-77331200-cad2-11ea-83ff-12dd99d09d45.jpg)
+![Blue Modern Technology LinkedIn Banner(2)](https://github.com/GriselJimenez/GriselJimenez/assets/46911040/0758b1ae-0d8d-4789-8b87-2f5afc4b0f87)
 
 <h1 align="center">
 Grisel Jimenez
