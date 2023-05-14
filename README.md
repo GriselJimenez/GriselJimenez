@@ -7,7 +7,7 @@ Grisel Jimenez
 | Researcher👨‍🔬| 3D/4D Carbonate/Clastic Modelling🌍| Reservoir Characterization🛰️|
 </h2>
 <h3 align="center">
-| Virtual Reality, Image analysis🌊| Climate Change🌡️| Geoconservation🌆|
+| Virtual Reality, Image analysis🌊| Climate Change🌡️| Geoconservation/ Natural Disater Policies🌆|
 </h3>
 
 ---
@@ -28,7 +28,7 @@ Grisel Jimenez
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="50" title="ResearchGate" />][ResearchGate]&nbsp;
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="50" title="ORCID" />][orcid]&nbsp;
 [<img src="https://edent.github.io/SuperTinyIcons/blob/master/images/svg/youtube.svg" />][Youtube]&nbsp;
-  
+[<img src="https://edent.github.io/SuperTinyIcons/blob/master/images/svg/arcgis.svg" />][ArcGis]&nbsp;  
   
 
 [Google Scholar]: https://scholar.google.com/citations?user=JGnHbUEAAAAJ&hl=en
