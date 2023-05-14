@@ -43,15 +43,15 @@ Grisel Jimenez
 
 ## **My Tools:**
 
-- **Oil and Gas Softwares:** [Petrel](https://www.software.slb.com/products/petrel) | [JewelSuite](https://shopbakerhughes.com/product/10295214/jewelsuite-reservoir-stimulation) | [Paleoscan](https://www.eliis-geo.com/paleoscan-overview-a.html) 
-- 
+- **Oil and Gas Softwares:** [Petrel](https://www.software.slb.com/products/petrel) | [JewelSuite](https://shopbakerhughes.com/product/10295214/jewelsuite-reservoir-stimulation) | [Paleoscan](https://www.eliis-geo.com/paleoscan-overview-a.html) | [BaselineZ] (https://baselinez.com/)
+
 - **GIS Softwares:** [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [QGIS](https://qgis.org/en/site/) 
 
 - **Cloud Computing & Big Data:** [Google Earth Engine](https://earthengine.google.com/)
 
 - **Geospatial & Big Data Analysis:** [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [IDE: VSCode](https://code.visualstudio.com/)
 
-- **Statistics & Visualizations:** [MiniTab](https://www.minitab.com/en-us/) | [PowerBI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel) | [BaselineZ]
+- **Statistics & Visualizations:** [MiniTab](https://www.minitab.com/en-us/) | [PowerBI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel) 
 
 
 
