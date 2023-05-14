@@ -45,7 +45,7 @@ Grisel Jimenez
 [orcid]: https://orcid.org/0000-0003-3906-4418
 [Mail]: mailto:jimenezsotogrisel@gmail.com
 [Youtube]: https://www.youtube.com/channel/UCZDhgKnEDrkEyDtCM9NeeMg
-[Field Work Experience and Geo publications] https://www.arcgis.com/home/item.html?id=d4fdffbdaf444bec8af47f878b2f5291  
+
 
 </h3>
 
