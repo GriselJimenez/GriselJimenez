@@ -19,8 +19,8 @@ Grisel Jimenez
 #### I have ~14 years of work experience in different countries like Bolivia, Brazil, Canada, France, and Malaysia, both in Exploration and Development including several domains from Fieldwork Geology, Sedimentology, and 3D Reservoir Modeling. Grisel has extensive Outcrop and Sedimentology experience in Western Cordillera, North and South Subdandean of Bolivia and northern Argentina, Deepwater Angola, Offshore Japan, Santos Basin, Brazil. Grisel is proficient in several languages including Spanish, English, French, Italian, and Portuguese. I am also working as well as open to any collaboration opportunity. 
 #### Beside my current research, I enjoy traveling mountains around Asia 🗻 and The Andes, aereal photography/drones, running, and collecting when possible rocks and fossils.
 
-<h3 align="center">
 
+<h3 align="center">
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="50" title="Mail" />][Mail]&nbsp;
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="50" title="Google Scholar" />][Google Scholar]&nbsp;
@@ -30,14 +30,14 @@ Grisel Jimenez
 [<img src="https://edent.github.io/SuperTinyIcons/blob/master/images/svg/youtube.svg" />][Youtube]&nbsp;
   
   
-[Field Work Experience and Geo publications] https://www.arcgis.com/home/item.html?id=d4fdffbdaf444bec8af47f878b2f5291
+
 [Google Scholar]: https://scholar.google.com/citations?user=JGnHbUEAAAAJ&hl=en
 [LinkedIn]: https://www.linkedin.com/in/jimenezgrisel/
 [ResearchGate]: https://www.researchgate.net/profile/Grisel-Jimenez-Soto
 [orcid]: https://orcid.org/0000-0003-3906-4418
 [Mail]: mailto:jimenezsotogrisel@gmail.com
 [Youtube]: https://www.youtube.com/channel/UCZDhgKnEDrkEyDtCM9NeeMg
-  
+[Field Work Experience and Geo publications] https://www.arcgis.com/home/item.html?id=d4fdffbdaf444bec8af47f878b2f5291  
 
 </h3>
 
