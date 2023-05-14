@@ -29,6 +29,7 @@ Grisel Jimenez
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="50" title="ORCID" />][orcid]&nbsp;
 [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" />][Youtube]&nbsp;
   
+  
 [Field Work Experience and Geo publications] https://www.arcgis.com/home/item.html?id=d4fdffbdaf444bec8af47f878b2f5291
 [Google Scholar]: https://scholar.google.com/citations?user=JGnHbUEAAAAJ&hl=en
 [LinkedIn]: https://www.linkedin.com/in/jimenezgrisel/
