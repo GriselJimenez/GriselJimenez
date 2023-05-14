@@ -78,7 +78,6 @@ Grisel Jimenez
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="50" title="QGIS" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="50" title="PowerBi" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="50" title="Excel" />&nbsp;
-<img src="https://i0.wp.com/filecr.com/wp-content/uploads/2022/01/clark-labs-terrset-logo.png" width="50" title="Terrset" />&nbsp;
 
 </h3>
 
