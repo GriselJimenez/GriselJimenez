@@ -50,7 +50,7 @@ Grisel Jimenez
 
 ## **My Tools:**
 
-- **Oil and Gas Softwares:** [Petrel](https://www.software.slb.com/products/petrel) | [JewelSuite](https://shopbakerhughes.com/product/10295214/jewelsuite-reservoir-stimulation) | [Paleoscan](https://www.eliis-geo.com/paleoscan-overview-a.html) | [BaselineZ] (https://baselinez.com/product/)
+- **Oil and Gas Softwares:** [Petrel](https://www.software.slb.com/products/petrel) | [JewelSuite](https://shopbakerhughes.com/product/10295214/jewelsuite-reservoir-stimulation) | [Paleoscan](https://www.eliis-geo.com/paleoscan-overview-a.html) | [BaselineZ](https://baselinez.com/use-cases/#FieldDevelopment)
 
 - **GIS Softwares:** [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [QGIS](https://qgis.org/en/site/) 
 
