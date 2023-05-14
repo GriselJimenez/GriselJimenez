@@ -1,4 +1,3 @@
-<h1 align="center">
 ![20180328_belize_preview](https://user-images.githubusercontent.com/46911040/87944817-77331200-cad2-11ea-83ff-12dd99d09d45.jpg)
 
 <h1 align="center">
@@ -28,13 +27,14 @@ Grisel Jimenez
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" />][LinkedIn]&nbsp;
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="50" title="ResearchGate" />][ResearchGate]&nbsp;
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="50" title="ORCID" />][orcid]&nbsp;
-[<img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/09/fiverr-2018.png?auto=format&q=60&fit=max&w=930g" width="50" title="Fiverr" />][Fiverr]&nbsp;
 
 [Google Scholar]: https://scholar.google.com/citations?user=JGnHbUEAAAAJ&hl=en
 [LinkedIn]: https://www.linkedin.com/in/jimenezgrisel/
 [ResearchGate]: https://www.researchgate.net/profile/Grisel-Jimenez-Soto
 [orcid]: https://orcid.org/0000-0003-3906-4418
 [Mail]: mailto:jimenezsotogrisel@gmail.com
+[Youtube]: https://www.youtube.com/channel/UCZDhgKnEDrkEyDtCM9NeeMg
+  
 
 </h3>
 
