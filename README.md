@@ -1,4 +1,4 @@
-![Blue Modern Technology LinkedIn Banner(2)](https://github.com/GriselJimenez/GriselJimenez/assets/46911040/0758b1ae-0d8d-4789-8b87-2f5afc4b0f87)
+![Blue Modern Technology LinkedIn Banner(5)](https://github.com/GriselJimenez/GriselJimenez/assets/46911040/318fcc74-4a59-4394-a257-3ef42cec5891)
 
 <h1 align="center">
 Grisel Jimenez
