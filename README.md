@@ -19,6 +19,18 @@ Grisel Jimenez
 #### I have ~14 years of work experience in different countries like Bolivia, Brazil, Canada, France, and Malaysia, both in Exploration and Development including several domains from Fieldwork Geology, Sedimentology, and 3D Reservoir Modeling. Grisel has extensive Outcrop and Sedimentology experience in Western Cordillera, North and South Subdandean of Bolivia and northern Argentina, Deepwater Angola, Offshore Japan, Santos Basin, Brazil. Grisel is proficient in several languages including Spanish, English, French, Italian, and Portuguese. I am also working as well as open to any collaboration opportunity. 
 #### Beside my current research, I enjoy traveling mountains around Asia 🗻 and The Andes, aereal photography/drones, running, and collecting when possible rocks and fossils.
 
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="[https://www.youtube.com/c/fknight](https://www.youtube.com/channel/UCZDhgKnEDrkEyDtCM9NeeMg)">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/GriselJimenez?tab=followers"> 
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GriselJimenez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/GriselJimenez?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GriselJimenez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
 
 <h3 align="center">
 
